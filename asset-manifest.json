@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ReactDrum/static/css/main.1f0bda95.chunk.css",
+    "main.js": "/ReactDrum/static/js/main.3e0d6c28.chunk.js",
+    "main.js.map": "/ReactDrum/static/js/main.3e0d6c28.chunk.js.map",
+    "runtime-main.js": "/ReactDrum/static/js/runtime-main.754de9df.js",
+    "runtime-main.js.map": "/ReactDrum/static/js/runtime-main.754de9df.js.map",
+    "static/js/2.f2750520.chunk.js": "/ReactDrum/static/js/2.f2750520.chunk.js",
+    "static/js/2.f2750520.chunk.js.map": "/ReactDrum/static/js/2.f2750520.chunk.js.map",
+    "index.html": "/ReactDrum/index.html",
+    "precache-manifest.13d435c53ee4adb27135a86b3491730a.js": "/ReactDrum/precache-manifest.13d435c53ee4adb27135a86b3491730a.js",
+    "service-worker.js": "/ReactDrum/service-worker.js",
+    "static/css/main.1f0bda95.chunk.css.map": "/ReactDrum/static/css/main.1f0bda95.chunk.css.map",
+    "static/js/2.f2750520.chunk.js.LICENSE.txt": "/ReactDrum/static/js/2.f2750520.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.754de9df.js",
+    "static/js/2.f2750520.chunk.js",
+    "static/css/main.1f0bda95.chunk.css",
+    "static/js/main.3e0d6c28.chunk.js"
+  ]
+}
